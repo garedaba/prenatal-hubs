@@ -20,6 +20,8 @@ see: [**B_cell_enrichments.ipynb**](B_cell_enrichments.ipynb)
 - perform pseudotime analysis to examine maturation of cells expressing hub genes
 <img src="OUTPUTS/velmeshev-all-cells-increasing-fdr05-mean_degree_subdiv90.png" width="600">
 
+Other analyses were performed with FUMA's [*gene2func*](https://fuma.ctglab.nl/) module and [*MAGMA*](https://cncr.nl/research/magma/).
+
 ## References and related material
 Oldham & Ball. *Transcriptomic divergence of network hubs in the prenatal human brain.* bioRxiv. 2025
 
