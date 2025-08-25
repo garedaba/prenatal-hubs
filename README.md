@@ -7,7 +7,7 @@ Code supporting our recent publication analysing the molecular signatures of pre
 Additional supporting data can be downloaded from the &mu;Brain resource on [Zenodo](https://zenodo.org/records/10622337).
 
 ## Code repository
-see: [**MATLAB code**](MATLAB/Readme.md) for all network analyses
+see: [**MATLAB code**](MATLAB/README.md) for all network analyses
 
 - surface parcellation at different resolutions
 - Rich Club analysis
