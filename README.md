@@ -7,6 +7,13 @@ Code supporting our recent publication analysing the molecular signatures of pre
 Additional supporting data can be downloaded from the &mu;Brain resource on [Zenodo](https://zenodo.org/records/10622337).
 
 ## Code repository
+see: [**MATLAB code**](MATLAB/Readme.md) for all network analyses
+
+- surface parcellation at different resolutions
+- Rich Club analysis
+- sensitivity analyses
+<img src="MATLAB/figures/uBrain90_thr_0.15.png" width="650">
+
 see: [**A_run_gene_models.ipynb**](A_run_gene_models.ipynb)  
 
 - filter pre-processed microarray data to remove genes with missing tissue samples
